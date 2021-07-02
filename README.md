@@ -1,10 +1,11 @@
+<!-- Minha descrição: -->
+- 👋 Olá, sou o @Lesczeo
+- 👀 Tenho muito interesse em Desenvolvimento Web, Modelagem 3D e Desenvolvimento de Jogos!
+- 🌱 Estou aprimorando meus conhecimentos em CSS, ASP.NET e Javascript.
+- 📫 Você pode me contatar me mandando mensagem pelo GitHub! Mas, sinta-se a vontade para me contar através do seguinte e-mail: lucasetzeo@gmail.com
+
+<!-- My description, in English: -->
 - 👋 Hi, I’m @Lesczeo
 - 👀 I’m interested in Web development, 3D Modeling and Game Engineering!
-- 🌱 I’m currently learning Javascript, Java and C# languages.
-- 💞️ I’m currently looking to collaborate on a web development team.
-- 📫 You can reach me by messaging me! I'm often taking a look at Github during my weeks!
-
-<!---
-Lesczeo/Lesczeo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🌱 I’m currently developing myself in CSS, ASP.NET and javascript.
+- 📫 You can reach me by messaging me! But feel free to contact me through my email: lucasetzeo@gmail.com
